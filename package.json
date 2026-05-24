@@ -9,8 +9,8 @@
     "preview": "vite build && node dist/app.mjs"
   },
   "dependencies": {
-    "@vue-tui/cli": "latest",
-    "@vue-tui/runtime": "latest",
+    "@vue-tui/cli": "^0.0.1",
+    "@vue-tui/runtime": "^0.0.1",
     "vue": "^3.4.0"
   },
   "devDependencies": {
