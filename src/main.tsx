@@ -1,4 +1,4 @@
 import { createApp } from "@vue-tui/runtime";
-import App from "./app.vue";
+import App from "./app";
 
 createApp(App).mount();
